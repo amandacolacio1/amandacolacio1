@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 🇺🇸 <a href="README.md">English</a>
 🇧🇷 <a href="README.pt-BR.md">Portuguese</a> |
 </div>
