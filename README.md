@@ -1,3 +1,9 @@
+<div align="right">
+
+🇧🇷 <a href="README.md">Português</a> |
+🇺🇸 <a href="README-EN.md">English</a>
+</div>
+
 # 👩‍💻👋 Olá, me chamo Amanda! 
 
 Sou **Desenvolvedora Full Stack** atuando no mercado de tecnologia desde **2021**, com experiência no desenvolvimento de aplicações **web**, **mobile** e **automações**, utilizando tecnologias como **JavaScript, TypeScript, Python, React, React Native, Next.js e Node.js**.
